@@ -5,6 +5,8 @@ An AI-Powered Network Intrusion Detection and Automated Mitigation System for my
 
 NetGuard AI is an intelligent, self-healing security system designed to detect and mitigate network intrusions in real-time. By combining Machine Learning for threat classification and Python-based automation for instant response, this framework bridges the gap between passive monitoring and active defense.
 
+SRS (https://github.com/Shahanzeb/NetGuard-AI/blob/main/NetGaurd%20SRS.docx)
+
 **Core Objectives**
 
 Real-Time Detection:
